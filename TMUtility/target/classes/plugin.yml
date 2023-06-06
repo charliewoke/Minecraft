@@ -1,0 +1,9 @@
+name: TMUtility
+version: '1.0-SNAPSHOT'
+main: net.teamadventures.tmutility.TMUtility
+api-version: 1.19
+prefix: TMUtils
+load: STARTUP
+authors: [charlie, teamadventures, view]
+description: Utility plugin for TM
+website: www.teamadventures.net

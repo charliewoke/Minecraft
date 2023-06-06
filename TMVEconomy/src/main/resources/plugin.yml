@@ -1,0 +1,9 @@
+name: TMVEconomy
+version: '${project.version}'
+main: net.teamadventures.tmveconomy.TMVEconomy
+api-version: 1.19
+prefix: TMEconomy
+load: STARTUP
+authors: [charlie, teamadventures, view]
+description: Economy plugin for veterra gamemode
+website: www.teamadventures.net

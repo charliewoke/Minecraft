@@ -1,0 +1,9 @@
+name: TMCore
+version: '1.0-SNAPSHOT'
+main: net.teamadventures.tmcore.TMCore
+api-version: 1.19
+prefix: TMCore
+load: STARTUP
+authors: [charlie, teamadventures, view]
+description: A core plugin for tm.
+website: www.teamadventures.net
